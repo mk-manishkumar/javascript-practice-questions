@@ -4,9 +4,7 @@ In this repository, I am curating a collection of logical questions spanning var
 ## Very Easy Questions
 
 [ **Area of a Triangle**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Area%20of%20a%20Triangle.js)
-
 [ **Basketball points**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Basketball%20points.js)
-
 [**Boolean to String Conversion**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Boolean%20to%20String%20Conversion.js)
 
 [ **Compare Strings by Count of Characters**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Compare%20Strings%20by%20Count%20of%20Characters.js)
