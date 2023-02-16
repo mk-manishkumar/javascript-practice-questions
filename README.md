@@ -6,8 +6,7 @@ In this repository, I am curating a collection of logical questions spanning var
 1) [ **Area of a Triangle**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Area%20of%20a%20Triangle.js)
 2) [ **Basketball points**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Basketball%20points.js)
 3) [**Boolean to String Conversion**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Boolean%20to%20String%20Conversion.js)
-
-4)[ **Compare Strings by Count of Characters**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Compare%20Strings%20by%20Count%20of%20Characters.js)
+4) [ **Compare Strings by Count of Characters**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Compare%20Strings%20by%20Count%20of%20Characters.js)
 
 [ **Convert Age to Days**](https://github.com/mk-manishkumar/javascript-practice-questions/blob/Manish/Very%20Easy%20Questions/Convert%20Age%20to%20Days.js)
 
